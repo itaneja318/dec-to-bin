@@ -16,4 +16,5 @@ int binaryToDecimal(int n)
  
         base = base * 2;
     }
+ }
  
